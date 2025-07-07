@@ -107,17 +107,17 @@ export default function Portfolio() {
           </div>
           <div className="flex items-center space-x-4">
             <Button variant="ghost" size="icon" asChild>
-              <Link href="https://github.com/alexjohnson" target="_blank">
+              <Link href="https://github.com/Morsetim" target="_blank">
                 <Github className="h-5 w-5" />
               </Link>
             </Button>
             <Button variant="ghost" size="icon" asChild>
-              <Link href="https://linkedin.com/in/alexjohnson" target="_blank">
+              <Link href="https://www.linkedin.com/in/maurice-etim-6a5506b3/" target="_blank">
                 <Linkedin className="h-5 w-5" />
               </Link>
             </Button>
             <Button variant="ghost" size="icon" asChild>
-              <Link href="mailto:alex@example.com">
+              <Link href="mailto:mauricium.maurice@yahoo.com">
                 <Mail className="h-5 w-5" />
               </Link>
             </Button>
