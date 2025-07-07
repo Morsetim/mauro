@@ -7,7 +7,6 @@ import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar"
 import { Separator } from "@/components/ui/separator"
 import { Github, Linkedin, Mail, ExternalLink, Download, Code, Smartphone, Globe, MapPin, Calendar } from "lucide-react"
 import Link from "next/link"
-import Image from "next/image"
 
 export default function Portfolio() {
   const skills = {
