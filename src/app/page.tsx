@@ -80,8 +80,8 @@ export default function Portfolio() {
       {/* Hero Section */}
       <section className="container py-24 md:py-32">
         <div className="flex flex-col items-center text-center space-y-8">
-          <Avatar className="h-32 w-32">
-            <AvatarImage src="/placeholder.svg?height=128&width=128" alt="Maurice Etim" />
+          <Avatar className="h-64 w-64">
+            <AvatarImage src="https://res.cloudinary.com/evenmg/image/upload/v1752484933/IMG_2046_xjtbcu.jpg" alt="Maurice Etim" />
             <AvatarFallback className="text-2xl">ME</AvatarFallback>
           </Avatar>
           <div className="space-y-4">
