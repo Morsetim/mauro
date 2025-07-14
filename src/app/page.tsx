@@ -216,9 +216,11 @@ export default function Portfolio() {
                           <Github className="h-4 w-4" />
                         </Link>
                       </Button> */}
-                      <Button variant="ghost" size="icon" asChild>
+                      
+                      <Button variant="ghost"  asChild>
                         <Link href={project.liveUrl} target="_blank">
-                          <ExternalLink className="h-4 w-4" />
+                          <p className="font-serif">Link</p>
+                          <ExternalLink className="h-4 w-4"/>
                         </Link>
                       </Button>
                     </div>
