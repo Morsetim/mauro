@@ -99,7 +99,7 @@ export default function Portfolio() {
               </Link>
             </Button>
             <Button variant="outline" size="lg" asChild>
-              <Link href="https://drive.google.com/file/d/12z4vvnz4SSaMWv0T6mYozf5OYESjzm5U/view?usp=drive_link" target="_blank">
+              <Link href="https://drive.google.com/file/d/12z4vvnz4SSaMWv0T6mYozf5OYESjzm5U/view?usp=sharing" target="_blank">
                 <Download className="mr-2 h-4 w-4" />
                 Download CV
               </Link>
