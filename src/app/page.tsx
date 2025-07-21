@@ -132,7 +132,7 @@ export default function Portfolio() {
           <div className="grid gap-8 md:grid-cols-2">
             <div className="space-y-4">
               <p className="text-muted-foreground">
-                I'm a passionate Frontend developer with over 4 years of experience building web and mobile
+                I'm a passionate Frontend developer with over 5 years of experience building web and mobile
                 applications. I love turning complex problems into simple, beautiful, and intuitive solutions.
               </p>
               <p className="text-muted-foreground">
@@ -146,7 +146,7 @@ export default function Portfolio() {
                 </div>
                 <div className="flex items-center">
                   <Calendar className="mr-1 h-4 w-4" />
-                  4+ years experience
+                  5+ years experience
                 </div>
               </div>
             </div>
